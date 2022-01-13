@@ -1,0 +1,1 @@
+This project is designed to build a survery form for fulfillment of freeCodeCamp's Responsive Web Design certificate. My aim with this project is to build a survery form that could be implemented on many different websites. The aim is to create a versatile project.
